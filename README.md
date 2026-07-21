@@ -1,29 +1,30 @@
+# 👋 Hello, I'm H
+
+I like building stuff.
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ciao,+sono+Noah!;Sviluppatore+in+diventare;Benvenuto+nel+mio+profilo!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://img.shields.io/badge/Repos-1-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-0-yellow?style=for-the-badge&logo=star&logoColor=black" />
+  <img src="https://img.shields.io/badge/Forks-0-orange?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoDev%20Score-28-red?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
-# 👋 Ciao, sono Noah!
+---
 
-Sono uno sviluppatore appassionato di tecnologia e programmazione. Questo è il mio spazio su GitHub dove condivido i miei progetti e il mio percorso di apprendimento.
+### 🛠️ Languages
+
+<div align="center">
+  No language data available
+</div>
+
+
 
 ---
 
-## 📊 Le mie Statistiche su GitHub
+<div align="center">
+  [![AutoDev Score](https://img.shields.io/badge/AutoDev%20Score-28/100-red?style=for-the-badge&logo=target&logoColor=white)](https://autodev-kappa.vercel.app/dashboard?user=noahsala1929)
+</div>
 
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=noahsala1929&show_icons=true&theme=tokyonight)
-
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=noahsala1929&layout=compact&theme=tokyonight)
-
----
-
-## 🛠️ Tecnologie che sto imparando
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🐍 La mia griglia di contributi
-
-![Serpente che mangia i contributi](https://raw.githubusercontent.com/noahsala1929/noahsala1929/output/snake.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=noahsala1929&color=blueviolet" alt="Profile Views" />
+</p>
