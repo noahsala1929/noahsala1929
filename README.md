@@ -2,9 +2,7 @@
 
 # H
 
-Building products.  
-Learning relentlessly.  
-Shipping ideas.
+I Like Building Stuff
 
 </div>
 
@@ -22,15 +20,6 @@ Shipping ideas.
 
 ---
 
-## Currently
-
-Building things for the web.
-
-Learning modern technologies.
-
-Improving every project I create.
-
----
 
 ## Links
 
