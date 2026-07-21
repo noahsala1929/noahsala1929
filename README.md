@@ -2,17 +2,15 @@
 
 <img src="./assets/header.svg" width="100%" />
 
-</div>
-
 <br>
 
-<div align="center">
+# H
 
-## H
+**Building products.**  
+**Learning relentlessly.**  
+**Shipping ideas.**
 
-**Building products.  
-Learning relentlessly.  
-Shipping ideas.**
+Italy · 18 · Web Development
 
 </div>
 
@@ -27,4 +25,7 @@ user: H
 location: Italy
 age: 18
 status: building
-focus: modern web technologies
+focus:
+  - modern web technologies
+  - product development
+  - clean interfaces
