@@ -9,6 +9,7 @@ I Like Building Stuff
 
 
 
+
 ## Tech Stack
 
 <div align="center">
@@ -16,6 +17,9 @@ I Like Building Stuff
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,postgres,git&theme=dark" />
 
 </div>
+
+
+
 
 
 ## Links
