@@ -7,8 +7,6 @@ I like building stuff
 </div>
 
 
----
-
 ## Tech Stack
 
 <div align="center">
@@ -17,7 +15,6 @@ I like building stuff
 
 </div>
 
----
 
 ## Links
 
