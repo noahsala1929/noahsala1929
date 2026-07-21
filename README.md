@@ -27,4 +27,4 @@ Portfolio: https://ns-h.vercel.app/
 
 LinkedIn: https://www.linkedin.com/in/noahsala-orienta
 
-Email: NOAHSALA1929@gmail.com
+Email: noahsala1929@gmail.com
