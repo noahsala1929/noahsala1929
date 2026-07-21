@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" />
-
-<br>
-
 # H
 
-**Building products.**  
-**Learning relentlessly.**  
-**Shipping ideas.**
-
-Italy · 18 · Web Development
+Building products.  
+Learning relentlessly.  
+Shipping ideas.
 
 </div>
 
@@ -18,14 +12,30 @@ Italy · 18 · Web Development
 
 ---
 
-## SYSTEM
+## Tech Stack
 
-```yaml
-user: H
-location: Italy
-age: 18
-status: building
-focus:
-  - modern web technologies
-  - product development
-  - clean interfaces
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,postgres,git&theme=dark" />
+
+</div>
+
+---
+
+## Currently
+
+Building things for the web.
+
+Learning modern technologies.
+
+Improving every project I create.
+
+---
+
+## Links
+
+Portfolio: https://ns-h.vercel.app/
+
+LinkedIn: https://www.linkedin.com/in/noahsala-orienta
+
+Email: NOAHSALA1929@gmail.com
